@@ -12,7 +12,16 @@ export default function App() {
           <DictionarySearch />
         </main>
         <footer>
-          <small>Coded by me :)</small>
+          <small>
+            Coded by Kathryn Delavere | Source Code on{" "}
+            <a
+              href="https://github.com/kdel01/dictionary-react"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>
+          </small>
         </footer>
       </div>
     </div>
