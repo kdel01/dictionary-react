@@ -1,3 +1,28 @@
 .Search {
   text-align: left;
 }
+
+.Search h1 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Search section {
+  background: white;
+  padding: 30px;
+  border-radius: 30px;
+  margin: 20px 0;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.Search input {
+  width: 100%;
+  padding: 6px 4px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.Search .hint {
+  font-size: 11px;
+  margin-top: 5px;
+}
