@@ -20,6 +20,14 @@ export default function App() {
               rel="noreferrer"
             >
               GitHub
+            </a>{" "}
+            | Hosted on{" "}
+            <a
+              href="https://vibrant-ritchie-c6bbaa.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
             </a>
           </small>
         </footer>
