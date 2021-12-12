@@ -15,3 +15,8 @@ body {
 a {
   color: rgb(149, 112, 236);
 }
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
